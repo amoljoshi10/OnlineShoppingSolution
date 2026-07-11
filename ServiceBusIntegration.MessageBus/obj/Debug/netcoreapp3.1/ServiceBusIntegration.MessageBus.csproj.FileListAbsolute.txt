@@ -1,0 +1,21 @@
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\bin\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.deps.json
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\bin\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.dll
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\bin\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.pdb
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.csproj.AssemblyReference.cache
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.AssemblyInfoInputs.cache
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.AssemblyInfo.cs
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.csproj.CoreCompileInputs.cache
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.dll
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.pdb
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingMicroservices\OnlineShoppingMicroservices\ServiceBusIntegration.MessageBus\bin\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.deps.json
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingMicroservices\OnlineShoppingMicroservices\ServiceBusIntegration.MessageBus\bin\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.dll
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingMicroservices\OnlineShoppingMicroservices\ServiceBusIntegration.MessageBus\bin\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.pdb
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingMicroservices\OnlineShoppingMicroservices\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.csproj.AssemblyReference.cache
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingMicroservices\OnlineShoppingMicroservices\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingMicroservices\OnlineShoppingMicroservices\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.AssemblyInfoInputs.cache
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingMicroservices\OnlineShoppingMicroservices\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.AssemblyInfo.cs
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingMicroservices\OnlineShoppingMicroservices\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingMicroservices\OnlineShoppingMicroservices\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.sourcelink.json
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingMicroservices\OnlineShoppingMicroservices\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.dll
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingMicroservices\OnlineShoppingMicroservices\ServiceBusIntegration.MessageBus\obj\Debug\netcoreapp3.1\ServiceBusIntegration.MessageBus.pdb

@@ -1,0 +1,197 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\images\\AsusVivoBook_.jpg",
+      "PackagePath": "staticwebassets\\images\\AsusVivoBook_.jpg"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\images\\Dell2.jpg",
+      "PackagePath": "staticwebassets\\images\\Dell2.jpg"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\images\\Dell_.jpg",
+      "PackagePath": "staticwebassets\\images\\Dell_.jpg"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\images\\HP11Gen.jpg",
+      "PackagePath": "staticwebassets\\images\\HP11Gen.jpg"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\images\\HPAMDRyzen.jpg",
+      "PackagePath": "staticwebassets\\images\\HPAMDRyzen.jpg"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\images\\Ideapad.jpg",
+      "PackagePath": "staticwebassets\\images\\Ideapad.jpg"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\images\\Lenovo E41-55 AMD.jpg",
+      "PackagePath": "staticwebassets\\images\\Lenovo E41-55 AMD.jpg"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\images\\LinovaThinkpad.jpg",
+      "PackagePath": "staticwebassets\\images\\LinovaThinkpad.jpg"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\amol\\projects\\GitHubCoPilot\\Microservices\\MicroservicesComm-main\\OnlineShoppingApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OnlineShoppingApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OnlineShoppingApp.props",
+      "PackagePath": "build\\OnlineShoppingApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineShoppingApp.props",
+      "PackagePath": "buildMultiTargeting\\OnlineShoppingApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OnlineShoppingApp.props",
+      "PackagePath": "buildTransitive\\OnlineShoppingApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

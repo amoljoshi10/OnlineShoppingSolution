@@ -1,0 +1,147 @@
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>minikube start
+* minikube v1.30.1 on Microsoft Windows 10 Home 10.0.19045.2965 Build 19045.2965
+* Automatically selected the docker driver. Other choices: hyperv, ssh
+* Using Docker Desktop driver with root privileges
+* Starting control plane node minikube in cluster minikube
+* Pulling base image ...
+* Creating docker container (CPUs=2, Memory=4000MB) ...
+* Preparing Kubernetes v1.26.3 on Docker 23.0.2 ...
+  - Generating certificates and keys ...
+  - Booting up control plane ...
+  - Configuring RBAC rules ...
+* Configuring bridge CNI (Container Networking Interface) ...
+  - Using image gcr.io/k8s-minikube/storage-provisioner:v5
+* Verifying Kubernetes components...
+* Enabled addons: default-storageclass, storage-provisioner
+* Done! kubectl is now configured to use "minikube" cluster and "default" namespace by default
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>kubetctl get nodes
+'kubetctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>kubectl get po -A
+NAMESPACE     NAME                               READY   STATUS    RESTARTS   AGE
+kube-system   coredns-787d4945fb-w4clf           1/1     Running   0          9s
+kube-system   etcd-minikube                      1/1     Running   0          22s
+kube-system   kube-apiserver-minikube            1/1     Running   0          24s
+kube-system   kube-controller-manager-minikube   1/1     Running   0          22s
+kube-system   kube-proxy-snpll                   1/1     Running   0          9s
+kube-system   kube-scheduler-minikube            1/1     Running   0          23s
+kube-system   storage-provisioner                1/1     Running   0          20s
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>helm install productapi productapi/
+NAME: productapi
+LAST DEPLOYED: Fri Jun  9 08:44:27 2023
+NAMESPACE: default
+STATUS: deployed
+REVISION: 1
+TEST SUITE: None
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>helm list
+NAME            NAMESPACE       REVISION        UPDATED                                 STATUS          CHART                   APP VERSION
+productapi      default         1               2023-06-09 08:44:27.0971647 +0530 IST   deployed        productapi-0.1.0        1.16.0
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>kubectl get all
+NAME                              READY   STATUS              RESTARTS   AGE
+pod/productapi-5765b5c4b8-zsxv6   0/1     ContainerCreating   0          9s
+
+NAME                 TYPE        CLUSTER-IP     EXTERNAL-IP   PORT(S)        AGE
+service/kubernetes   ClusterIP   10.96.0.1      <none>        443/TCP        39s
+service/productapi   NodePort    10.101.69.43   <none>        80:31477/TCP   9s
+
+NAME                         READY   UP-TO-DATE   AVAILABLE   AGE
+deployment.apps/productapi   0/1     1            0           9s
+
+NAME                                    DESIRED   CURRENT   READY   AGE
+replicaset.apps/productapi-5765b5c4b8   1         1         0       9s
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>kubectl get all
+NAME                              READY   STATUS    RESTARTS   AGE
+pod/productapi-5765b5c4b8-zsxv6   1/1     Running   0          6m17s
+
+NAME                 TYPE        CLUSTER-IP     EXTERNAL-IP   PORT(S)        AGE
+service/kubernetes   ClusterIP   10.96.0.1      <none>        443/TCP        6m47s
+service/productapi   NodePort    10.101.69.43   <none>        80:31477/TCP   6m17s
+
+NAME                         READY   UP-TO-DATE   AVAILABLE   AGE
+deployment.apps/productapi   1/1     1            1           6m17s
+
+NAME                                    DESIRED   CURRENT   READY   AGE
+replicaset.apps/productapi-5765b5c4b8   1         1         1       6m17s
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>kubectl get nodes
+NAME       STATUS   ROLES           AGE   VERSION
+minikube   Ready    control-plane   8m    v1.26.3
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>kubectl get po -A
+NAMESPACE              NAME                                        READY   STATUS    RESTARTS      AGE
+default                productapi-5765b5c4b8-zsxv6                 1/1     Running   0             11m
+kube-system            coredns-787d4945fb-w4clf                    1/1     Running   0             12m
+kube-system            etcd-minikube                               1/1     Running   0             12m
+kube-system            kube-apiserver-minikube                     1/1     Running   0             12m
+kube-system            kube-controller-manager-minikube            1/1     Running   0             12m
+kube-system            kube-proxy-snpll                            1/1     Running   0             12m
+kube-system            kube-scheduler-minikube                     1/1     Running   0             12m
+kube-system            storage-provisioner                         1/1     Running   1 (11m ago)   12m
+kubernetes-dashboard   dashboard-metrics-scraper-5c6664855-bpn8z   1/1     Running   0             9m
+kubernetes-dashboard   kubernetes-dashboard-55c4cbbc7c-kccqg       1/1     Running   0             9m
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>kubectl get all
+NAME                              READY   STATUS    RESTARTS   AGE
+pod/productapi-5765b5c4b8-zsxv6   1/1     Running   0          11m
+
+NAME                 TYPE        CLUSTER-IP     EXTERNAL-IP   PORT(S)        AGE
+service/kubernetes   ClusterIP   10.96.0.1      <none>        443/TCP        12m
+service/productapi   NodePort    10.101.69.43   <none>        80:31477/TCP   11m
+
+NAME                         READY   UP-TO-DATE   AVAILABLE   AGE
+deployment.apps/productapi   1/1     1            1           11m
+
+NAME                                    DESIRED   CURRENT   READY   AGE
+replicaset.apps/productapi-5765b5c4b8   1         1         1       11m
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>kubectl get nodes
+NAME       STATUS   ROLES           AGE   VERSION
+minikube   Ready    control-plane   12m   v1.26.3
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>kubectl get minikube
+error: the server doesn't have a resource type "minikube"
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>kubectl describe service productapi
+Name:                     productapi
+Namespace:                default
+Labels:                   app.kubernetes.io/instance=productapi
+                          app.kubernetes.io/managed-by=Helm
+                          app.kubernetes.io/name=productapi
+                          app.kubernetes.io/version=1.16.0
+                          helm.sh/chart=productapi-0.1.0
+Annotations:              meta.helm.sh/release-name: productapi
+                          meta.helm.sh/release-namespace: default
+Selector:                 app.kubernetes.io/instance=productapi,app.kubernetes.io/name=productapi,type=NodePort
+Type:                     NodePort
+IP Family Policy:         SingleStack
+IP Families:              IPv4
+IP:                       10.101.69.43
+IPs:                      10.101.69.43
+Port:                     http  80/TCP
+TargetPort:               80/TCP
+NodePort:                 http  31477/TCP
+Endpoints:                <none>
+Session Affinity:         None
+External Traffic Policy:  Cluster
+Events:                   <none>
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>kubectl get nodes -o wide
+NAME       STATUS   ROLES           AGE   VERSION   INTERNAL-IP    EXTERNAL-IP   OS-IMAGE             KERNEL-VERSION                       CONTAINER-RUNTIME
+minikube   Ready    control-plane   15m   v1.26.3   192.168.49.2   <none>        Ubuntu 20.04.5 LTS   5.10.102.1-microsoft-standard-WSL2   docker://23.0.2
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm>
+
+
+Browse now http://192.168.49.2:31477/products
+

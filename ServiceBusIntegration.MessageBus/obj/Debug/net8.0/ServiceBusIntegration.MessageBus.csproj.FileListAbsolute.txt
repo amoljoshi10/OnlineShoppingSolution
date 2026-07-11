@@ -1,0 +1,13 @@
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingSolution\OnlineShoppingSolution\ServiceBusIntegration.MessageBus\bin\Debug\net8.0\ServiceBusIntegration.MessageBus.deps.json
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingSolution\OnlineShoppingSolution\ServiceBusIntegration.MessageBus\bin\Debug\net8.0\ServiceBusIntegration.MessageBus.dll
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingSolution\OnlineShoppingSolution\ServiceBusIntegration.MessageBus\bin\Debug\net8.0\ServiceBusIntegration.MessageBus.pdb
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingSolution\OnlineShoppingSolution\ServiceBusIntegration.MessageBus\obj\Debug\net8.0\ServiceBusIntegration.MessageBus.csproj.AssemblyReference.cache
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingSolution\OnlineShoppingSolution\ServiceBusIntegration.MessageBus\obj\Debug\net8.0\ServiceBusIntegration.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingSolution\OnlineShoppingSolution\ServiceBusIntegration.MessageBus\obj\Debug\net8.0\ServiceBusIntegration.MessageBus.AssemblyInfoInputs.cache
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingSolution\OnlineShoppingSolution\ServiceBusIntegration.MessageBus\obj\Debug\net8.0\ServiceBusIntegration.MessageBus.AssemblyInfo.cs
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingSolution\OnlineShoppingSolution\ServiceBusIntegration.MessageBus\obj\Debug\net8.0\ServiceBusIntegration.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingSolution\OnlineShoppingSolution\ServiceBusIntegration.MessageBus\obj\Debug\net8.0\ServiceBusIntegration.MessageBus.sourcelink.json
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingSolution\OnlineShoppingSolution\ServiceBusIntegration.MessageBus\obj\Debug\net8.0\ServiceBusIntegration.MessageBus.dll
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingSolution\OnlineShoppingSolution\ServiceBusIntegration.MessageBus\obj\Debug\net8.0\refint\ServiceBusIntegration.MessageBus.dll
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingSolution\OnlineShoppingSolution\ServiceBusIntegration.MessageBus\obj\Debug\net8.0\ServiceBusIntegration.MessageBus.pdb
+C:\Users\Amol Joshi\source\repos\.Net\OnlineShoppingSolution\OnlineShoppingSolution\ServiceBusIntegration.MessageBus\obj\Debug\net8.0\ref\ServiceBusIntegration.MessageBus.dll

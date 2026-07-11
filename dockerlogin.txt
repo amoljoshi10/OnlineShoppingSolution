@@ -1,0 +1,36 @@
+To use the access token from your Docker CLI client:
+
+1. Run docker login -u amolsj77
+
+2. At the password prompt, enter the personal access token.
+
+dckr_pat_06yHTibYC4Rqh7gCaYoZYelTYAM
+
+
+dckr_pat_06yHTibYC4Rqh7gCaYoZYelTYAM
+
+docker build  -f "D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\ProductAPI\Dockerfile" -t productapiv1:latest .
+
+docker images
+Image id
+92756b12b476
+
+docker tag  92756b12b476  shoppingappv1/productapiv1:latest
+
+
+helm template apiservice  .\productapi\ > productapi-helm2.yaml
+
+
+D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm\productapi>helm install -f productapi-helm.yaml productapi D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\helm\productapi
+NAME: productapi
+LAST DEPLOYED: Sun Jun 11 18:47:21 2023
+NAMESPACE: default
+STATUS: deployed
+REVISION: 1
+TEST SUITE: None
+
+
+helm list
+
+
+kubet get all

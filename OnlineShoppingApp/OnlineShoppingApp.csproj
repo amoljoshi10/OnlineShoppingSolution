@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>OnlineShoppingApp</AssemblyName>
+    <RootNamespace>OnlineShoppingApp</RootNamespace>
+    <!--<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>-->
+    <UserSecretsId>e2a54c41-9f18-4644-a10a-79c501a910d7</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Telemetry\**" />
+    <Content Remove="Telemetry\**" />
+    <EmbeddedResource Remove="Telemetry\**" />
+    <None Remove="Telemetry\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="TestData\AsusVivoBook_.jpg" />
+    <None Remove="TestData\Dell2.jpg" />
+    <None Remove="TestData\Dell_.jpg" />
+    <None Remove="TestData\HP11Gen.jpg" />
+    <None Remove="TestData\HPAMDRyzen.jpg" />
+    <None Remove="TestData\Ideapad.jpg" />
+    <None Remove="TestData\Lenovo E41-55 AMD.jpg" />
+    <None Remove="TestData\LinovaThinkpad.jpg" />
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.18.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.12.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.11.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+
+
+</Project>

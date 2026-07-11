@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  onlineshoppingapp:
+    image: ${DOCKER_REGISTRY-}onlineshoppingapp
+    build:
+      context: .
+      dockerfile: OnlineShoppingApp/Dockerfile

@@ -1,0 +1,15 @@
+replicaCount: 1
+
+image:
+  repository: shoppingapp/productapi:latest
+  pullPolicy: IfNotPresent
+
+service:
+  type: NodePort
+  port: 80
+  name: productapi
+  targetPort: 80
+
+container:
+  name: productapi
+

@@ -1,0 +1,26 @@
+version: 0.0.1
+apimServiceName: productapi
+
+apis:
+    - name: productapi
+      type: http
+      description: Product API
+      serviceUrl: http://localhost:3000
+      path: /productapi
+      openApiSpec: C:\apim\swaggerPetstore.json
+      policy: C:\apim\apiPolicyHeaders.xml
+      subscriptionRequired: true
+      isCurrent: true
+      apiRevision: 1
+      operations:
+        getProducts:
+          policy: D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\API Definations\operationRateLimit.xml
+        addProduct:
+          policy: D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main\API Definations\operationRateLimit.xml
+
+
+
+
+
+
+      

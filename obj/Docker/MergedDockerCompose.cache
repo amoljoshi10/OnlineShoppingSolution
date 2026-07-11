@@ -1,0 +1,13 @@
+services:
+  onlineshoppingapp:
+    build:
+      context: D:\amol\projects\GitHubCoPilot\Microservices\MicroservicesComm-main
+      dockerfile: OnlineShoppingApp/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: onlineshoppingapp
+    ports:
+    - target: 80
+    volumes:
+    - C:\Users\Amol Joshi\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

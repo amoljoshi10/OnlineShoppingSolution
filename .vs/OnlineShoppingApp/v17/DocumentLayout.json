@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\productapi\\productapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\productapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5324478-61DF-44D1-8EE2-5B58BDCE2ED3}|OrderManagementAPI\\OrderManagementAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\ordermanagementapi\\ordermanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{C5324478-61DF-44D1-8EE2-5B58BDCE2ED3}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\ordermanagementapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5324478-61DF-44D1-8EE2-5B58BDCE2ED3}|OrderManagementAPI\\OrderManagementAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\ordermanagementapi\\ordermanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5324478-61DF-44D1-8EE2-5B58BDCE2ED3}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\ordermanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611F81A6-648E-4854-8AEE-728F1A6A29C0}|OnlineShoppingApp\\OnlineShoppingApp.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\onlineshoppingapp\\onlineshoppingapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{611F81A6-648E-4854-8AEE-728F1A6A29C0}|OnlineShoppingApp\\OnlineShoppingApp.csproj|solutionrelative:onlineshoppingapp\\onlineshoppingapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611F81A6-648E-4854-8AEE-728F1A6A29C0}|OnlineShoppingApp\\OnlineShoppingApp.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\onlineshoppingapp\\onlineshoppingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{611F81A6-648E-4854-8AEE-728F1A6A29C0}|OnlineShoppingApp\\OnlineShoppingApp.csproj|solutionrelative:onlineshoppingapp\\onlineshoppingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54E17C2-D6C0-4B7B-B91E-D19B2470A279}|GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\gatewayonlineshoppingweb\\gatewayonlineshoppingweb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{F54E17C2-D6C0-4B7B-B91E-D19B2470A279}|GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj|solutionrelative:gatewayonlineshoppingweb\\gatewayonlineshoppingweb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54E17C2-D6C0-4B7B-B91E-D19B2470A279}|GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\gatewayonlineshoppingweb\\gatewayonlineshoppingweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F54E17C2-D6C0-4B7B-B91E-D19B2470A279}|GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj|solutionrelative:gatewayonlineshoppingweb\\gatewayonlineshoppingweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A38921-46FF-43D0-BDA2-A768309757F8}|ServiceBusIntegration.MessageBus\\ServiceBusIntegration.MessageBus.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\servicebusintegration.messagebus\\servicebusintegration.messagebus.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{75A38921-46FF-43D0-BDA2-A768309757F8}|ServiceBusIntegration.MessageBus\\ServiceBusIntegration.MessageBus.csproj|solutionrelative:servicebusintegration.messagebus\\servicebusintegration.messagebus.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A38921-46FF-43D0-BDA2-A768309757F8}|ServiceBusIntegration.MessageBus\\ServiceBusIntegration.MessageBus.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\servicebusintegration.messagebus\\servicebusintegration.messagebus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75A38921-46FF-43D0-BDA2-A768309757F8}|ServiceBusIntegration.MessageBus\\ServiceBusIntegration.MessageBus.csproj|solutionrelative:servicebusintegration.messagebus\\servicebusintegration.messagebus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CCD6-62F0-4C73-B34C-1D1E2D53B82E}|CartAPI\\CartAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\cartapi\\cartapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{B186CCD6-62F0-4C73-B34C-1D1E2D53B82E}|CartAPI\\CartAPI.csproj|solutionrelative:cartapi\\cartapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CCD6-62F0-4C73-B34C-1D1E2D53B82E}|CartAPI\\CartAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\cartapi\\cartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B186CCD6-62F0-4C73-B34C-1D1E2D53B82E}|CartAPI\\CartAPI.csproj|solutionrelative:cartapi\\cartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CCD6-62F0-4C73-B34C-1D1E2D53B82E}|CartAPI\\CartAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\cartapi\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B186CCD6-62F0-4C73-B34C-1D1E2D53B82E}|CartAPI\\CartAPI.csproj|solutionrelative:cartapi\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CCD6-62F0-4C73-B34C-1D1E2D53B82E}|CartAPI\\CartAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\cartapi\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B186CCD6-62F0-4C73-B34C-1D1E2D53B82E}|CartAPI\\CartAPI.csproj|solutionrelative:cartapi\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\productapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\productapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\productapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54E17C2-D6C0-4B7B-B91E-D19B2470A279}|GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\gatewayonlineshoppingweb\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54E17C2-D6C0-4B7B-B91E-D19B2470A279}|GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj|solutionrelative:gatewayonlineshoppingweb\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CCD6-62F0-4C73-B34C-1D1E2D53B82E}|CartAPI\\CartAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\cartapi\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B186CCD6-62F0-4C73-B34C-1D1E2D53B82E}|CartAPI\\CartAPI.csproj|solutionrelative:cartapi\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC7929DE-4C08-4E8A-A149-CE87B762DB6A}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CCD6-62F0-4C73-B34C-1D1E2D53B82E}|CartAPI\\CartAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\cartapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B186CCD6-62F0-4C73-B34C-1D1E2D53B82E}|CartAPI\\CartAPI.csproj|solutionrelative:cartapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B186CCD6-62F0-4C73-B34C-1D1E2D53B82E}|CartAPI\\CartAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\cartapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B186CCD6-62F0-4C73-B34C-1D1E2D53B82E}|CartAPI\\CartAPI.csproj|solutionrelative:cartapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5324478-61DF-44D1-8EE2-5B58BDCE2ED3}|OrderManagementAPI\\OrderManagementAPI.csproj|c:\\users\\amol joshi\\source\\repos\\.net\\onlineshoppingsolution\\onlineshoppingsolution\\ordermanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5324478-61DF-44D1-8EE2-5B58BDCE2ED3}|OrderManagementAPI\\OrderManagementAPI.csproj|solutionrelative:ordermanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OnlineShoppingApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\OnlineShoppingApp\\OnlineShoppingApp.csproj",
+              "RelativeDocumentMoniker": "OnlineShoppingApp\\OnlineShoppingApp.csproj",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\OnlineShoppingApp\\OnlineShoppingApp.csproj",
+              "RelativeToolTip": "OnlineShoppingApp\\OnlineShoppingApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T19:22:27.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GatewayOnlineShoppingWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj",
+              "RelativeDocumentMoniker": "GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj",
+              "RelativeToolTip": "GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T19:22:14.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OnlineShoppingApp",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\OnlineShoppingApp\\OnlineShoppingApp.csproj",
+              "RelativeDocumentMoniker": "OnlineShoppingApp\\OnlineShoppingApp.csproj",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\OnlineShoppingApp\\OnlineShoppingApp.csproj",
+              "RelativeToolTip": "OnlineShoppingApp\\OnlineShoppingApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T19:11:28.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderManagementAPI",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\OrderManagementAPI\\OrderManagementAPI.csproj",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\OrderManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\OrderManagementAPI\\OrderManagementAPI.csproj",
+              "RelativeToolTip": "OrderManagementAPI\\OrderManagementAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T19:11:28.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductAPI",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\ProductAPI.csproj",
+              "RelativeDocumentMoniker": "ProductAPI\\ProductAPI.csproj",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\ProductAPI.csproj",
+              "RelativeToolTip": "ProductAPI\\ProductAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T19:11:28.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderManagementAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\OrderManagementAPI\\OrderManagementAPI.csproj",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\OrderManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\OrderManagementAPI\\OrderManagementAPI.csproj",
+              "RelativeToolTip": "OrderManagementAPI\\OrderManagementAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T19:22:39.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\ProductAPI.csproj",
+              "RelativeDocumentMoniker": "ProductAPI\\ProductAPI.csproj",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\ProductAPI.csproj",
+              "RelativeToolTip": "ProductAPI\\ProductAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T19:22:55.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceBusIntegration.MessageBus",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ServiceBusIntegration.MessageBus\\ServiceBusIntegration.MessageBus.csproj",
+              "RelativeDocumentMoniker": "ServiceBusIntegration.MessageBus\\ServiceBusIntegration.MessageBus.csproj",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ServiceBusIntegration.MessageBus\\ServiceBusIntegration.MessageBus.csproj",
+              "RelativeToolTip": "ServiceBusIntegration.MessageBus\\ServiceBusIntegration.MessageBus.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T19:22:04.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceBusIntegration.MessageBus.csproj",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ServiceBusIntegration.MessageBus\\ServiceBusIntegration.MessageBus.csproj",
+              "RelativeDocumentMoniker": "ServiceBusIntegration.MessageBus\\ServiceBusIntegration.MessageBus.csproj",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ServiceBusIntegration.MessageBus\\ServiceBusIntegration.MessageBus.csproj",
+              "RelativeToolTip": "ServiceBusIntegration.MessageBus\\ServiceBusIntegration.MessageBus.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T19:21:58.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\CartAPI\\CartAPI.csproj",
+              "RelativeDocumentMoniker": "CartAPI\\CartAPI.csproj",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\CartAPI\\CartAPI.csproj",
+              "RelativeToolTip": "CartAPI\\CartAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T19:21:41.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GatewayOnlineShoppingWeb",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj",
+              "RelativeDocumentMoniker": "GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj",
+              "RelativeToolTip": "GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T19:11:28.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\CartAPI\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "CartAPI\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\CartAPI\\Services\\CartService.cs",
+              "RelativeToolTip": "CartAPI\\Services\\CartService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T19:11:28.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\Product.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Product.cs",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\Product.cs",
+              "RelativeToolTip": "ProductAPI\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T19:11:28.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductAPI\\Services\\ProductService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T19:11:28.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartAPI",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\CartAPI\\CartAPI.csproj",
+              "RelativeDocumentMoniker": "CartAPI\\CartAPI.csproj",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\CartAPI\\CartAPI.csproj",
+              "RelativeToolTip": "CartAPI\\CartAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-11T19:11:28.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\Program.cs",
+              "RelativeToolTip": "ProductAPI\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T19:11:28.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\Startup.cs",
+              "RelativeToolTip": "ProductAPI\\Startup.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAIA2wC4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T19:11:28.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\CartAPI\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "CartAPI\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\CartAPI\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "CartAPI\\Controllers\\CartsController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T19:11:28.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\GatewayOnlineShoppingWeb\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "GatewayOnlineShoppingWeb\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\GatewayOnlineShoppingWeb\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "GatewayOnlineShoppingWeb\\Controllers\\CartsController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T19:11:28.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T19:11:28.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\ProductAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-11T19:11:28.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\CartAPI\\Cart.cs",
+              "RelativeDocumentMoniker": "CartAPI\\Cart.cs",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\CartAPI\\Cart.cs",
+              "RelativeToolTip": "CartAPI\\Cart.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAABBwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T19:11:28.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\CartAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CartAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\CartAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CartAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-11T19:11:28.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\CartAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "CartAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\CartAPI\\Dockerfile",
+              "RelativeToolTip": "CartAPI\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-11T19:11:28.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\OrderManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrderManagementAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\OrderManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrderManagementAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-11T19:11:28.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

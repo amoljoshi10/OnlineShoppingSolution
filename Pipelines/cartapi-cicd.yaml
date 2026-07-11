@@ -1,0 +1,93 @@
+  # Docker
+# Build and push an image to Azure Container Registry
+# https://docs.microsoft.com/azure/devops/pipelines/languages/docker
+
+trigger:
+  branches:
+    include:
+    - master
+  paths:
+    include:
+    - Microservices/CartAPI/*
+    - Microservices/CartAPI-Deployment-yaml
+
+resources:
+- repo: self
+
+variables:
+  # Container registry service connection established during pipeline creation
+  imageRepository: 'cartapi'
+  containerRegistry: 'onlineshopping22acr.azurecr.io'
+  dockerfilePath: 'CartAPI/Dockerfile'
+  tag: '$(Build.BuildId)'
+  deploymentFile: 'CartAPI-Deployment-yaml'
+  # Agent VM image name
+  vmImageName: 'ubuntu-latest'
+  SNYK_TOKEN: 'f511b604-bdaf-49a2-ab7e-323480977739'
+  
+
+stages:
+
+- stage: SecurityScan
+  displayName: Scan for security Vulnurabilities
+  jobs:  
+  - job: SecurityScan
+    displayName: SecurityScan
+    steps:
+    - task: SnykSecurityScan@1
+      inputs:
+        serviceConnectionEndpoint: 'AZDevOpsSnykServiceConnection'
+        testType: 'app'
+        targetFile: 'CartAPI/project.assets.json'
+        monitorWhen: 'always'
+        failOnIssues: true
+        projectName: 'MicroservicesComm'
+        organization: 'amoljoshi10'
+        additionalArguments: '--json'
+
+
+  # CELEBRATE
+    - task: CopyFiles@2
+      inputs:
+        SourceFolder: '$(Agent.TempDirectory)'
+        Contents: '**'
+        TargetFolder: '$(Common.TestResultsDirectory)'
+
+    - task: PublishBuildArtifacts@1
+      inputs:
+        PathtoPublish: '$(Common.TestResultsDirectory)'
+        ArtifactName: 'SnycArtifacts'
+        publishLocation: 'Container'
+
+- stage: Build
+  displayName: Build stage
+  jobs:  
+  - job: Build
+    displayName: Build
+    pool:
+      vmImage: $(vmImageName)
+    steps:
+    - task: Docker@2
+      displayName: Build Stage
+      inputs:
+        command: 'build'
+        Dockerfile: '**/Dockerfile'
+        buildContext: '$(Build.SourcesDirectory)'
+        tags: '$(tag)'
+
+      # CELEBRATE
+    - task: CopyFiles@2
+      inputs:
+        SourceFolder: '$(Build.SourcesDirectory)'
+        Contents: '**'
+        TargetFolder: '$(Build.ArtifactStagingDirectory)'
+
+    - task: PublishBuildArtifacts@1
+      inputs:
+        PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+        ArtifactName: 'MicroservicesArtifacts'
+        publishLocation: 'Container'
+        
+ 
+
+      

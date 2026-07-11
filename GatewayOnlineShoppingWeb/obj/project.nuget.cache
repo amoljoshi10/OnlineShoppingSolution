@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/86RWGvaeuM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amol Joshi\\source\\repos\\.Net\\OnlineShoppingSolution\\OnlineShoppingSolution\\GatewayOnlineShoppingWeb\\GatewayOnlineShoppingWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amol Joshi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\Amol Joshi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
